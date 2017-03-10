@@ -9,6 +9,7 @@
         <module name="computeservice" />
         <module name="computeservice2" />
         <module name="eureka-server" />
+        <module name="feign" />
         <module name="ribbon" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="computeservice2" target="1.8" />
       <module name="eureka-server" target="1.6" />
       <module name="eurekaserver" target="1.6" />
+      <module name="feign" target="1.6" />
       <module name="ribbon" target="1.6" />
       <module name="springclouddemo" target="1.5" />
     </bytecodeTargetLevel>

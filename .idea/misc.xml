@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/demo1/computeservice/pom.xml" />
         <option value="$PROJECT_DIR$/demo1/eurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/demo2/ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/demo2/feign/pom.xml" />
       </list>
     </option>
   </component>
